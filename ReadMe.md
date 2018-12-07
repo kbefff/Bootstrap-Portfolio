@@ -1,10 +1,10 @@
 ### Assignment One Instructions (Bootstrap)
 
-1. Inside your `Bootstrap-Portfolio` repo, create `index.html`, `portfolio.html` and `contact.html`.
+<!-- 1. Inside your `Bootstrap-Portfolio` repo, create `index.html`, `portfolio.html` and `contact.html`. -->
 
-2. Using Bootstrap, recreate your portfolio site with the following items:
+<!-- 2. Using Bootstrap, recreate your portfolio site with the following items: -->
 
-   * A navbar
+   <!-- * A navbar -->
 
    * A responsive layout (remember the grid, rows and columns are your friends)
 
@@ -13,7 +13,7 @@
    * Responsive images
 
    **BONUS**
-   Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site _(Hint: Check out the Bootstrap documentation)_
+   <!-- Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site _(Hint: Check out the Bootstrap documentation)_ -->
 
 3. Your Bootstrap solution should minimize use of media queries.
 
