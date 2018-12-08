@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    margin-bottom: 60px;
+    margin-bottom: 120px;
 }
 
 .footer {
@@ -18,15 +18,41 @@ body {
     background-color: #f5f5f5;
 }
 
+
 /* Extra small devices (portrait phones, less than 576px) */
 /* No media query since this is the default in Bootstrap */
 
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+    /* 576 */
+    /* .footer {
+        width: 100%;
+        padding-right: 30px;
+        padding-left: 30px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .container {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+      } */
+
+}
 
 
 /* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {}
+@media (min-width: 768px) {
+    /* main {
+        width: 100%;
+        padding-right: -15px;
+        padding-left: -15px;
+        margin-right: auto;
+        margin-left: auto;
+      } */
+}
 
 
 /* Large devices (desktops, 992px and up) */
@@ -38,4 +64,3 @@ body {
 
 /* Sticky footer styles
 -------------------------------------------------- */
-
