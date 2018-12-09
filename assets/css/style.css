@@ -12,6 +12,11 @@ body {
     background-color: #ffffff;
 }
 
+.content-heading {
+    color: #4aaaa5;
+    border-bottom: 3px solid #cccccc;
+}
+
 .footer {
     position: absolute;
     left: 0;
